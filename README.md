@@ -5,7 +5,7 @@
 
 Quizzler is a simple Python-based quiz game with a graphical user interface (GUI). This project allows users to answer a series of true/false questions and tracks their score.
 
-![Screenshot of the game interface](Screenshot(106).png)
+![Screenshot of the game interface](Screenshot (106).png)
 ## Features
 
 - User-friendly graphical interface.
